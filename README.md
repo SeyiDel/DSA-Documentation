@@ -14,7 +14,7 @@ Now we are building portfolio on Github before moving on to Power Business Intel
 ## Data Sources
 
 ## Tools Used
-- Excel [Download here](www.microsoft.com)
+- Excel [Download here](https://www.microsoft.com)
   - For Data collection
   - For Data Cleaning
       - Text to Column
