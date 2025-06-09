@@ -22,3 +22,9 @@ Now we are building portfolio on Github before moving on to Power Business Intel
       - Pivot
 - Power BI
 - SQL
+
+#Data Analysis
+``` SQL
+SELECT A,B,C
+WHERE A > 15
+````
