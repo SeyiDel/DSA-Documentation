@@ -1,2 +1,3 @@
 # DSA-Documentation
-This is pathway of my journey as a data analyst trainee at Digital Skill Up Africa
+This is pathway of my journey as a data analyst trainee at Digital Skill Up Africa. It all started from understanding what data entails, how data is generated and stored. This all inforamtion about data was so interesting and fascinating to know. We then started learning the basics of Microsoft Excel and functions, Pivot tables and power query. After that, we moved on to Structured Query Langauage (SQL), the database server installation, learning the SQL queries and commands. Now we are building portfolio on Github before moving on to Power Business Intelligence (Power BI).
+
